@@ -1,0 +1,48 @@
+{
+  "name": "talamoig-icinga",
+  "version": "0.0.9",
+  "author": "talamoig",
+  "summary": "Icinga2 Puppet Module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/talamoig/icinga",
+  "project_page": "https://github.com/talamoig/icinga",
+  "issues_url": "https://github.com/talamoig/icinga/issues",
+  "tags": [
+    "icinga",
+    "nagios",
+    "monitoring"
+  ],
+  "description": "Puppet module for icinga2 backend, classic UI and Web 1.x installation",
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": "3.x"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "ScientificLinux",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu"
+    }
+  ],
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}

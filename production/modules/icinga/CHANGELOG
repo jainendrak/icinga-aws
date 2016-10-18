@@ -1,0 +1,6 @@
+0.0.4 2015-03-03 talamoig <talamoig@roma1.infn.it>
+ * initial release
+0.0.5 2015-03-09 talamoig <talamoig@roma1.infn.it>
+ * added support to web-gui and classic-gui
+0.0.6 2015-03-10 talamoig <talamoig@roma1.infn.it>
+ * added Ubuntu support

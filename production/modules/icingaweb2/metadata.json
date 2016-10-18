@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "project_page": "https://github.com/talamoig/icingaweb2",
+  "source": "https://github.com/talamoig/icingaweb2",
+  "version": "0.0.2",
+  "description": "Puppet module for icingaweb2 front end interface to icinga",
+  "summary": "Icingaweb2 puppet module",
+  "author": "talamoig",
+  "name": "talamoig-icingaweb2",
+  "checksums": {
+    "templates/config.erb": "562b27646105b75af1ec2168035cfe55",
+    "templates/roles.erb": "cbe6b66c34558341c22b0ae0ea50ee26",
+    "templates/authentication.erb": "82b4a2ceb8204097b4f2cddc58328309",
+    "manifests/configure.pp": "ac684369d656b43404696088de2eef85",
+    "spec/classes/init_spec.rb": "e642c4b0575f50bec5bd95eec30fb86f",
+    "tests/init.pp": "0ed3454d4c5043c3f0a20ebed24ae199",
+    "Modulefile~": "744f6a433f2c7c70d2ca4573a29982f2",
+    "Rakefile": "20b80e526e351a74df2001f504e756d2",
+    "Modulefile": "c0962326691f7063129b953717742e2e",
+    "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+    "manifests/modules.pp": "967a5acde8c8dc34a582ea2ab034daa8",
+    "templates/modules/monitoring/instances.erb": "991a4ab013ec0c02298d0d4f0678914e",
+    "templates/resources.erb": "b3f4eff1173d8a6684058a76ff4a7348",
+    "manifests/configure_file.pp": "d24b0adbb2df2c41f8893a6770450864",
+    "manifests/params.pp": "6d09ed6d40e9fe66f5ac6544f4829983",
+    "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+    "manifests/module_file.pp": "f7e9e0178245777145468e06eca5cce5",
+    "README.md": "63e0340ea6cbf87100a9f27184ce9cba",
+    "manifests/enable_module.pp": "bba29a9a6aefbbdca69db75f57fc8a80",
+    "manifests/package.pp": "4ce8afb79446ca606772e01db097051e",
+    "templates/modules/monitoring/config.erb": "5a6c9154b2eb6b066b1c9323533577ce",
+    "templates/modules/monitoring/backends.erb": "82084552a55c6c7cb8825032b214cedb",
+    "manifests/init.pp": "9ac384623c1178ae45fd48d4035aedd2",
+    "manifests/yumrepo.pp": "4240c1ed5dbb49645bbaf12b4630e9db"
+  },
+  "license": "Apache License, Version 2.0"
+}
